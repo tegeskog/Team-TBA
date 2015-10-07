@@ -18,7 +18,7 @@ namespace Team_TBA
             Console.WriteLine("Tjenare!!!");
             Console.Write("Hwi");
 
-            while (x = 0)
+            while (x == 0)
             {
                 x++;
 
