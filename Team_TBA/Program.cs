@@ -11,6 +11,7 @@ namespace Team_TBA
         static void Main(string[] args)
         {
             Console.WriteLine("Tjenare!!!");
+            Console.ReadKey();
         }
     }
 }
