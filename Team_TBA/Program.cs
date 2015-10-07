@@ -10,10 +10,6 @@ namespace Team_TBA
     {
         static void Main(string[] args)
         {
-
-            double sum = 0;
-            double x = 0, y = 0;
-
             Console.WriteLine("Tjenare!!!");
             Console.ReadKey();
         }
