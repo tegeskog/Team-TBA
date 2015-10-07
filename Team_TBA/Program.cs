@@ -12,7 +12,7 @@ namespace Team_TBA
         {
 
             var x = 0;
-            var y = "";
+            
 
             
             Console.WriteLine("Tjenare!!!");
