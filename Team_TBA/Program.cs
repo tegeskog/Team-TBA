@@ -10,6 +10,11 @@ namespace Team_TBA
     {
         static void Main(string[] args)
         {
+
+            var x = 0;
+            var y = "";
+
+            
             Console.WriteLine("Tjenare!!!");
             Console.Write("Hwi");
 
